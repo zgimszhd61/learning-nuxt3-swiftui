@@ -1,4 +1,3 @@
-# learning-nuxt3-swiftui
 ## 记录一些学习材料
 ### nuxt3
 - [ ] aliexpress - https://www.youtube.com/watch?v=dVcCRFVhz74
